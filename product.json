@@ -47,6 +47,12 @@
             "name":"Doge",
             "img":"img.jpg",
             "price":"1870"
+        },
+         {
+            "id":"10009",
+            "name":"Orc2",
+            "img":"orc2.jpg",
+            "price":"18700"
         }
     ]
 }
