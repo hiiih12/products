@@ -1,0 +1,164 @@
+{
+    "FA1": [
+        [
+                {
+                    "en": "C'est (ce)",
+                    "mn": "it’s"
+                },
+                {
+                    "en": "facile",
+                    "mn": "easy"
+                },
+                {
+                    "en": "C'est facile",
+                    "mn": "It’s easy"
+                },
+                {
+                    "en": "Important (ampohton)",
+                    "mn": "Important"
+                },
+                {
+                    "en": "Pour moi (pug mua)",
+                    "mn": "for me"
+                },
+                {
+                    "en": "C'est important pour moi",
+                    "mn": "It’s important for me"
+                },
+                {
+                    "en": "C'est facile pour moi",
+                    "mn": "It’s easy for me"
+                },
+                {
+                    "en": "difficile",
+                    "mn": "difficult"
+                },
+                {
+                    "en": "pour toi (pug tua)",
+                    "mn": "for you"
+                },
+                {
+                    "en": "C'est pour toi",
+                    "mn": "It’s for you"
+                },
+                {
+                    "en": "très (t-hai)",
+                    "mn": "very"
+                },
+                {
+                    "en": "Très important",
+                    "mn": "very important"
+                },
+                {
+                    "en": "C'est très important",
+                    "mn": "it's very important"
+                },
+                {
+                    "en": "très facile",
+                    "mn": "very easy"
+                },
+                {
+                    "en": "c'est très facile pour moi",
+                    "mn": "it's very easy for me"
+                },
+                {
+                    "en": "Ne ... pas (noi .. pa)",
+                    "mn": "Not"
+                },
+                {
+                    "en": "Ce n'est pas (cu noi pa)",
+                    "mn": "not easy"
+                },
+                {
+                    "en": "Ce n'est pas important",
+                    "mn": "it's not important"
+                },
+                {
+                    "en": "Ce n'est pas facile",
+                    "mn": "it's not easy"
+                },
+                {
+                    "en": "Merci beaucoup",
+                    "mn": "Thank You Very Much"
+                }
+            ],
+        [
+                {
+                    "en": "C'est important pour moi",
+                    "mn": "It's important for me"
+                },
+                {
+                    "en": "C'est facile pour moi",
+                    "mn": "it's easy for me"
+                },
+                {
+                    "en": "C'est très important",
+                    "mn": "it's very important"
+                },
+                {
+                    "en": "Ce n'est pas important",
+                    "mn": "it's not important"
+                },
+                {
+                    "en": "Je veux (ji vu)",
+                    "mn": "i want"
+                },
+                {
+                    "en": "Parler (pagle)",
+                    "mn": "speak"
+                },
+                {
+                    "en": "Je veux parler",
+                    "mn": "i want to speak"
+                },
+                {
+                    "en": "Avec toi",
+                    "mn": "with you"
+                },
+                {
+                    "en": "Je veux parler avec toi",
+                    "mn": "i want to speak with you"
+                },
+                {
+                    "en": "Je ne veux pas",
+                    "mn": "I don't want"
+                },
+                {
+                    "en": "Je ne veux pas parler",
+                    "mn": "I don't want to speak"
+                },
+                {
+                    "en": "Je suis dèsolè (jusvi dezole)",
+                    "mn": "i'm sorry"
+                },
+                {
+                    "en": "Je suis dèsolè, je ne veux pas parler avec toi",
+                    "mn": "I'm sorry, I don't want to speak with you"
+                },
+                {
+                    "en": "Est-ce que...? (ees qu)",
+                    "mn": "is it that"
+                },
+                {
+                    "en": "Tu veux (tuu vuu)",
+                    "mn": "You want"
+                },
+                {
+                    "en": "Est-ce que tu veux?",
+                    "mn": "is it that you want?"
+                },
+                {
+                    "en": "Est-ce que tu vuex parler avec moi",
+                    "mn": "is it that you want to speak with me"
+                },
+                {
+                    "en": "Oui,bien sûr (vi bians iuh)",
+                    "mn": "of course"
+                },
+                {
+                    "en": "Merci beaucoup",
+                    "mn": "Thank You Very Much"
+                }
+            ]
+    ]
+}
