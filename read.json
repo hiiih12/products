@@ -1,0 +1,491 @@
+[
+    [
+        "I usually teach English at a language school in the summer. I often can’t enjoy the summer because I am so busy. So this summer, I’m not planning to work. Instead, I’m going to have a proper summer holiday. I’m going to buy a camper van and drive around Ireland. I’m going to visit lots of beautiful beaches and learn to surf! I’m mostly going to travel alone, but I will visit friends. One friend, Cathy, is a school teacher, so she has a long summer holiday, so hopefully, we will spend a week or two together. Another Irish friend, Joe, has a new house there, so I’ll stay with him for a few days and help him paint the rooms.",
+        [
+            [
+                "What is Emma planning to do this summer instead of working?",
+                [
+                    {"A) Teach English at a language school" : false},
+                    {"B) Buy a van and travel around Ireland" : true},
+                    {"C) Stay at home and relax" : false}
+                ]
+            ],
+            [
+                "What new activity does Emma want to learn?*",
+                [
+                    {"A) Hiking" : false},
+                    {"B) Surfing" : true},
+                    {"C) Cycling" : false}
+                ]
+            ],
+            [
+                "Who is Emma planning to spend a week or two with?",
+                [
+                    {"A) Cathy" : true},
+                    {"B) Joe" : false},
+                    {"C) Her brother" : false}
+                ]
+            ],
+            [
+                "What will Emma help her friend Joe do?",
+                [
+                    {"A) Cook dinner" : false},
+                    {"B) Plant a garden" : false},
+                    {"C) Paint the rooms" : true}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"I usually teach English at a language school in the summer.",
+                "mn":"Би ихэвчлэн зундаа хэлний сургуульд Англи хэл заадаг.",
+                "zad":"Usual = Хэвийн, жирийн. Usually =Голдуу, голцуу, жирийн үед. In the summer = Зундаа. At a language school = Хэлний сургуульд. At a ... гэдгийг байршил тодорхойлох ...д гэж ашиглаж байна. In the ... гэдэг нь тодорхой зүйл дотор гэсэн утгатай буюу зундаа болно."
+            },
+            {
+                "en":"I often can’t enjoy the summer because I am so busy.",
+                "mn":"Би ихэвчлэн зуныг сайхан өнгөрөөж чаддаггүй учир нь би маш завгүй байдаг.",
+                "zad":"Often = Ихэвчлэн, дандаа, байн байн Usually - тай сольж ашиглаж болно. to enjoy = кайф авах / таашаах / зугаацах. So busy = маш завгүй"
+            },
+            {
+                "en":"So this summer, I’m not planning to work.",
+                "mn":"Тиймээс энэ зун би ажиллахгүй гэж төлөвлөж байна. / Тиймээс энэ зун би ажиллана гэж төлөвлөхгүй байна.",
+                "zad":"Planning to ... = ... гэж төлөвлөж байгаа (To plan = төлөвлөх)"
+            },
+            {
+                "en":"Instead, I’m going to have a proper summer holiday.",
+                "mn":"Оронд нь би жинхэнэ зуны амралт авна.",
+                "zad":"instead = оронд нь. going to = ирээдүй цаг (тэгнэ, ингэнэ), proper = жинхэнэ зохистой, сайтар"
+            },
+            {
+                "en":"I’m going to buy a camper van and drive around Ireland.",
+                "mn":"Би аялалын машин аваад Ирландаар тойрч аялна.",
+                "zad":"to buy = худалдаж авах. camper van = аялалын фургон. to drive around = тойрон жолоодох"
+            },
+            {
+                "en":"I’m going to visit lots of beautiful beaches and learn to surf.",
+                "mn":"Би зөндөө олон үзэсгэлтэй далайн эргүүдээр зочилж бас давалгаан дээр гулгаж сурна.",
+                "zad":"to visit = зочлох. beautiful beach = үзэсгэлэнтэй далайн эрэг. to surf = далайн давалгаан дээр хавтантай гулгах"
+            },
+            {
+                "en":" I’m mostly going to travel alone, but I will visit friends.",
+                "mn":"Би ихэвчлэн ганцаараа аялах болно, гэхдээ  найзуудаараа зочлоно. ",
+                "zad":"mostly = ихэвчлэн, ерөнхийдөө (most = ихэнхи, дийлэнхи). alone = ганцаараа"
+            },
+            {
+                "en":"she has a long summer holiday, so hopefully, we will spend a week or two together",
+                "mn":"Тэр урт зуны амралт авдаг, тиймээс бид ганц хоёр долоо хоногийг хамт өнгөрөөнө гэж найдаж байна.",
+                "zad":"hopefully = горьдлоготой / найдлагатай (to hope = найдах), spend = зарцуулах, үрэх, өнгөрөөх. "
+            },
+            {
+                "en":"Another Irish friend, Joe, has a new house there, so I’ll stay with him for a few days and help him paint the rooms.",
+                "mn":"Өөр нэг Ирланд найз Жо тэнд нэг шинэ байшинтай, тиймээс би түүнтэй хэд хоног байж бас өрөөгөө будахад нь тусална",
+                "zad":"another = өөр нэг. (other = өөр) to stay = үлдэх. for a few days = хэд хоногийн турш. to paint = будах"
+            }
+        ]
+    ],
+    [
+        "Last year, I did a surfing instructor course, and I spent the summer teaching people to surf. It was great! I was in the sea and sun all day, and every evening, my friends and I had a barbecue on the beach. The surf school asked me to return this summer, but I won't do that. Last autumn, I learned to scuba dive, and I will do a diving instructor course soon. Then, I plan to teach diving all summer to earn some money. I don’t want to stay in the UK. It’s too cold here! I want to fly to Greece or Egypt. I’ll go there alone. I’m sure I will meet lots of cool people there!",
+        [
+            [
+                "What did Jayden do last summer? ",
+                [
+                    {"A) Worked as a surfing instructor" : true},
+                    {"B) Learned to scuba dive" : false},
+                    {"C) Taught English" : false}
+                ]
+            ],
+            [
+                "What does Jayden plan to do this summer?",
+                [
+                    {"A) Teach surfing again" : false},
+                    {"B) Teach diving" : true},
+                    {"C) Go hiking in Ireland" : false}
+                ]
+            ],
+            [
+                "Why doesn't Jayden want to stay in the UK? ",
+                [
+                    {"A) It's too hot" : false},
+                    {"B) It's too crowded" : false},
+                    {"C) It's too cold" : true}
+                ]
+            ],
+            [
+                "Where does Jayden want to go to teach diving?",
+                [
+                    {"A) Greece or Egypt" : true},
+                    {"B) Ireland" : false},
+                    {"C) Scotland" : false}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"Last year, I did a surfing instructor course",
+                "mn":"Өнгөрсөн жил би серфингийн багшийн сургалтанд суусан.",
+                "zad":"last year - түрүү жил. instructor - зааварлагч багш (to instruct = зааварчлах, instruction = заавар)"
+            },
+            {
+                "en":"I spent the summer teaching people to surf",
+                "mn":"Би зуныг хүмүүст серфинг зааж өнгөрүүлсэн",
+                "zad":"spent = зарцуулсан, өнгөрүүлсэн (to spend = зарцуулах)"
+            },
+            {
+                "en":"I was in the sea and sun all-day",
+                "mn":"Би бүтэн өдөржин далайд бас наранд байсан",
+                "zad":"sea = далай, тэнгис. all day = өдөржин"
+            },
+            {
+                "en":"The surf school asked me to return this summer, but I won't do that",
+                "mn":"Серфингийн сургууль намайг энэ зун буцаж ирээч гэж асуусан, гэхдээ би тэгэхгүй",
+                "zad":"to return = буцах. I will not = I won't"
+            },
+            {
+                "en":"Last autumn, I learned to scuba dive",
+                "mn":"Өнгөрсөн намар би усанд шунбаж сурсан",
+                "zad":"Last autumn = Сүүлчийн намар, өнгөрсөн намар (Америк хэллэгээр намрыг fall гэж хэлнэ). To dive = Шумбах"
+            },
+            {
+                "en":"to earn some money",
+                "mn":"Мөнгө олохын тулд",
+                "zad":"to earn = аливаа юмыг хөдөлмөрлөж олох. some money = хэсэг мөнгө"
+            },
+            {
+                "en":"I don’t want to stay in the UK. It’s too cold here!",
+                "mn":"Би Их Британид үлдмээргүй байна. Энд дэндүү хүйтэн.",
+                "zad":"too ... = дэндүү"
+            },
+            {
+                "en":"I'm sure I will...",
+                "mn":"Би тэгнэ гэдэгтээ итгэлтэй байна",
+                "zad":"sure = гарцаагүй, лавтай"
+            }
+        ]
+    ],
+    [
+        "Well, last month, my friend Alfie and I had a crazy idea. We decided to cycle from the south of England to the north of Scotland. It’s an 874-mile trip! It takes ten to fourteen days. But I’m not a fast cyclist, and I want to enjoy visiting different places, so we plan to ride for four weeks. We will visit historic cities like Bath and Edinburgh, cycle through the pretty countryside and visit museums and castles on the way. Alfie wanted to camp, but I’d like a comfortable bed at the end of each day, so we are going to stay in guest houses. I hope it doesn’t rain much, but I also hope it’s not too hot either!",
+        [
+            [
+                "What did Pamela decide to do with her friend Alfie?",
+                [
+                    {"A) Drive around Ireland" : false},
+                    {"B) Cycle across Britain" : true},
+                    {"C) Learn to surf" : false}
+                ]
+            ],
+            [
+                "How long do they plan to take for their cycling trip?",
+                [
+                    {"A) One week" : false},
+                    {"B) Four weeks" : true},
+                    {"C) Two days" : false}
+                ]
+            ],
+            [
+                "What does Pamela prefer at the end of each day?",
+                [
+                    {"A) Staying in guest houses" : true},
+                    {"B) Camping" : false},
+                    {"C) Sleeping in a camper van" : false}
+                ]
+            ],
+            [
+                "What does Pamela hope for the weather during their trip?",
+                [
+                    {"A) That it snows" : false},
+                    {"B) That it’s very hot" : false},
+                    {"C) That it doesn’t rain a lot, but it’s not too hot either" : true}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"We had a crazy idea",
+                "mn":"Бидэнд галзуу санаа төрсөн",
+                "zad":"have an idea = санаа төрөх. crazy = галзуу, солиотой"
+            },
+            {
+                "en":"We decided to cycle from the south of England to the north of Scotland",
+                "mn":"Бид Английн өмнөд хэсгээс Шотландын хойд хэсэг хүртэл дугуйгаар явахаар шийдсэн.",
+                "zad":"to decide = Шийдэх. South = Өмнөд, урд зүг. North = Хойд зүг. to cycle = дугуй унах"
+            },
+            {
+                "en":"It's a long trip",
+                "mn":"Энэ бол урт аялал",
+                "zad":"long = урт. trip = аялал"
+            },
+            {
+                "en":"It takes ten to fourteen days",
+                "mn":"Араваас арван дөрөв хоног болно",
+                "zad":"it takes ... = үүнд ... шаардагдана."
+            },
+            {
+                "en":"We will visit historic cities like Bath and Edinburgh",
+                "mn":"Бид Баат, Эдинбург зэрэг түүхэн хотуудаар зочлоно",
+                "zad":"historic = түүхэн. like ... = ... гэх мэт / шиг"
+            },
+            {
+                "en":"cycle through the pretty countryside and visit museums and castles on the way",
+                "mn":"үзэсгэлэнт хөдөө нутгаар дугуйгаар аялж, замдаа музей, цайзуудаар зочлон",
+                "zad":"through ... = ...аар нэвт. countryside = хөдөө нутаг. on the way = явах замдаа"
+            },
+            {
+                "en":"Alfie wanted to camp, but I’d like a comfortable bed at the end of each day",
+                "mn":"Альфи хээр буудаллахыг хүссэн, харин би өдөр бүрийн төгсгөлд тухтай ортой байхыг хүсч байна",
+                "zad":"I'd like = I would like = Би ...хыг хүсч байна / Би ...мээр байна (I want -ын илүү эелдэг хувилбар) to camp = хээр буудаллах"
+            },
+            {
+                "en":"so we are going to stay in guest houses",
+                "mn":"Тиймээс бид зочны байруудаар буудаллах болно",
+                "zad":"guest = зочин, guest house = зочны байшин (түрээслэн буудаллаж болдог хувийн байрууд)"
+            },
+            {
+                "en":"I hope it doesn’t rain much, but I hope it’s not too hot either!",
+                "mn":"Бороо их орохгүй байх гэж найдаж байна, гэхдээ хэтэрхий халуун биш байх гэж бас найдаж байна!",
+                "zad":"to hope = найдах. to rain = бороо орох. much = зөндөө / маш их. either = ч бас"
+            }
+        ]
+    ],
+    [
+        "Last month, Emily decided to try something new. She always wanted to learn how to paint, so she signed up for a painting class in her area. The class meets every Saturday morning in a small studio filled with light and colours. Emily was nervous at first because she had never painted before. However, her teacher, Mr. Lopez, was very kind and patient. He showed the class how to mix colours and create simple shapes.",
+        [
+            [
+                "What did Emily decide to do last month?",
+                [
+                    {"A) She decided to move to a new neighborhood." : false},
+                    {"B) She decided to try something new." : true},
+                    {"C) She decided to teach a class." : false}
+                ]
+            ],
+            [
+                "Why did Emily sign up for the painting class?",
+                [
+                    {"A) She was looking for a new job." : false},
+                    {"B) She wanted to meet Mr. Lopez." : false},
+                    {"C) She always wanted to learn how to paint." : true}
+                ]
+            ],
+            [
+                "Where does the painting class meet?",
+                [
+                    {"A) In a large, dark room." : false},
+                    {"B) Outside in the park." : false},
+                    {"C) In a small studio filled with light and colors." : true}
+                ]
+            ],
+            [
+                "How did Emily feel at the beginning of her first class?",
+                [
+                    {"A) Excited and confident." : false},
+                    {"B) Nervous because she had never painted before." : true},
+                    {"C) Bored and uninterested." : false}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"Last month, Emily decided to try something new.",
+                "mn":"Өнгөрсөн сард Эмили шинэ зүйл туршиж үзэхээр шийдсэн.",
+                "zad":"Last month = сүүлийн сар / түрүү сар. decided = шийдсэн. something new = нэгэн шинэ зүйл"
+            },
+            {
+                "en":"She always wanted to learn how to paint, so she signed up for a painting class in her area.",
+                "mn":"Тэр үргэлж зурж сурахыг хүсдэг байсан тул гэрийнхээ ойр хавьд зургийн ангид бүртгүүлжээ.",
+                "zad":"to paint = будгаар зурах. signed up = бүртгүүлсэн (to sign up = бүртгүүлэх, sign = тэмдэг, to sign = тэмдэглэх / гарын үсэг зурах, up = дээш / ...гүйцээх). area = талбай, орон зай, газар нутаг"
+            },
+            {
+                "en":"The class meets every Saturday morning in a small studio filled with light and colours",
+                "mn":"Ангийнхан Хагас сайны өглөө бүр өнгө, гэрлээр дүүрэн жижигхэн студид цуглардаг.",
+                "zad":"filled with ... = ...-ээр дүүрэн (to fill = дүүргэх). light = гэрэл"
+            },
+            {
+                "en":"Emily was nervous at first because she had never painted before.",
+                "mn":"Эмили эхэндээ сандарч байв, учир нь тэр өмнө нь хэзээ ч зурж байгаагүй.",
+                "zad":"nervous = сандран. at first = эхэндээ, before = урьд / өмнө"
+            },
+            {
+                "en":"However, her teacher, Mr. Lopez, was very kind and patient.",
+                "mn":"Гэсэн хэдий ч түүний багш ноён Лопез маш эелдэг, тэвчээртэй байсан.",
+                "zad":"However = Хэдий ч / Тийм боловч. kind = нинжин сэтгэлтэй. patient = тэвчээртэй"
+            },
+            {
+                "en":"He showed the class how to mix colors and create simple shapes.",
+                "mn":"Тэрээр ангийнханд хэрхэн өнгө хольж, энгийн дүрсүүд бүтээхийг харуулав.",
+                "zad":"to show = үзүүлэх. to mix = холих. to create = бүтээх. simple = энгийн. shape = дүрс"
+            }
+        ]
+    ],
+    [
+        "Emily's first painting was of a small boat on a lake. It was not perfect, but she felt proud of it. Mr. Lopez told her that learning to paint takes time and practice. Emily made friends in the class, too. They would often stay after class to talk about art and share tips. She learned that one of her classmates, Marco, is a photographer. Marco offered to show Emily some basic photography skills next month. Emily is excited to learn more about art.",
+        [
+            [
+                "What was the subject of Emily's first painting?",
+                [
+                    {"A) A group of people." : false},
+                    {"B) A flower garden." : false},
+                    {"C) A small boat on a lake." : true}
+                ]
+            ],
+            [
+                "How did Emily feel about her first painting?",
+                [
+                    {"A) She was disappointed." : false},
+                    {"B) She felt proud of it." : true},
+                    {"C) She thought it was perfect." : false}
+                ]
+            ],
+            [
+                "What did Mr. Lopez say about learning to paint?",
+                [
+                    {"A) It takes time and practice." : true},
+                    {"B) It requires expensive tools." : false},
+                    {"C) It's easier than photography." : false}
+                ]
+            ],
+            [
+                "Who offered to teach Emily photography skills?",
+                [
+                    {"A) Mr. Lopez." : false},
+                    {"B) A classmate named Marco." : true},
+                    {"C) One of Emily's friends from work." : false}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"Emily's first painting was of a small boat on a lake.",
+                "mn":"Эмилигийн анхны зураг нь нууран дээрх жижиг завины зураг байв.",
+                "zad":"Painting = уран зураг (нэр үгээр авч үзвэл). on a lake = нууран дээр. boat = завь"
+            },
+            {
+                "en":"It was not perfect, but she felt proud of it.",
+                "mn":"Төгс биш байсан ч тэр үүгээр бахархаж байв.",
+                "zad":"felt = мэдэрсэн (to feel = мэдрэх). proud = бахархсан (жишээ: I am proud of you = би чамаар бахархдаг, make me proud = намайг бахархуул)"
+            },
+            {
+                "en":"Mr. Lopez told her that learning to paint takes time and practice.",
+                "mn":"Лопез багш түүнд зурж сурахад цаг хугацаа бас дадлага хэрэгтэй гэж хэлсэн.",
+                "zad":"(Жич: Англи хэлэнд багшийгаа Teacher гэж ер нь дууддаггүй. Mr эсвэл Ms гээд овогоор нь дууддаг. Эсвэл өөрийг нь дуудвал нэрээр нь биш Sir / Miss гэж дуудна) it takes time = үүнд цаг хугацаа орно (шууд утгаар: энэ цаг авдаг) practice = дадлага"
+            },
+            {
+                "en":"Emily made friends in the class, too.",
+                "mn":"Эмили бас ангидаа найзуудтай ч болсон.",
+                "zad":"To make friends = Найзуудтай болох (шууд утгаар: найзууд хийх)"
+            },
+            {
+                "en":"They would often stay after class to talk about art and share tips.",
+                "mn":"Тэд ихэвчлэн хичээлийн дараа үлдэж, урлагийн талаар ярилцаж, зөвлөгөө хуваалцдаг байв.",
+                "zad":"Would = will гэдгийн өнгөрсөн цаг бас төсөөллийн эсвэл эелдэг нөхцөл байдлыг тайлбарлахад ашиглах туслах үйл үг. Often = ихэвчлэн. to stay after class = ангийн дараа үлдэх. Tips = бяцхан зөвөлгөө"
+            },
+            {
+                "en":"She learned that one of her classmates, Marco, is a photographer.",
+                "mn":"Тэр ангийнхаа Марког гэрэл зурагчин гэдгийг олж мэдсэн.",
+                "zad":"Шууд утгаар 'Learned' буюу сурсан гэж хэлж байгаа ч, энэ өгүүлбэрт олж мэдсэн гэдэг утгыг илэрхийлж байна. Бас нэгэн өөр 'олж мэдэх' гэдэг үг бол 'Find out'. Жишээ нь 'She found out that her classmate is a singer'. = Тэр ангийнхаа хүүхдийг дуучин гэдгийг олж мэдсэн. Classmate = Ангийн найз / ангийн нөхөр / ангийн хүүхэд"
+            },
+            {
+                "en":"Marco offered to show Emily some basic photography skills next month.",
+                "mn":"Марко ирэх сард Эмилид гэрэл зургийн суурь чадваруудаас үзүүлэхийг санал болгов.",
+                "zad":"to offer = санал болгох, basic = үндсэн / энгийн (base = суурь). basic skills = суурь чадвар / анхан шатны мэдлэг"
+            },
+            {
+                "en":"Emily is excited to learn more about art",
+                "mn":"Эмили урлагийн тухай илүү ихийг сурах гэж догдолж байна.",
+                "zad":"excited = догдолсон. about art = урлагийн тухай"
+            }
+        ]
+    ],
+    [
+        "Recently, Emily has noticed that painting helps her relax. After working in a busy office for a week, she looks forward to her painting class. It gives her a sense of peace and accomplishment. Emily is now considering joining an art club to meet more people with similar interests. She is happy she found a hobby that brings her joy and new friends.",
+        [
+            [
+                "What effect does painting have on Emily?",
+                [
+                    {"A) It makes her feel stressed." : false},
+                    {"B) It helps her relax." : true},
+                    {"C) It confuses her." : false}
+                ]
+            ],
+            [
+                "Why does Emily look forward to her painting class?",
+                [
+                    {"A) Because she can escape from her job." : false},
+                    {"B) Because it gives her a sense of peace and accomplishment." : true},
+                    {"C) Because she dislikes her job.stion..." : false}
+                ]
+            ],
+            [
+                "What is Emily considering doing to enhance her hobby?",
+                [
+                    {"A) Taking a break from painting." : false},
+                    {"B) Quitting her job." : false},
+                    {"C) Joining an art club." : true}
+                ]
+            ],
+            [
+                "Why is Emily happy about her new hobby?",
+                [
+                    {"A) It brings her joy and new friends." : true},
+                    {"B) It allows her to travel." : false},
+                    {"C) It makes her famous." : false}
+                ]
+            ]
+        ],
+        [
+            {
+                "en":"Англи өгүүлбэр / хэллэг",
+                "mn":"Орчуулга",
+                "zad":"Задаргаа тайлбар"
+            },
+            {
+                "en":"Recently, Emily has noticed that painting helps her relax.",
+                "mn":"Сүүлийн үед Эмили зураг зурах нь түүнийг тайвшруулахад тусалдаг болохыг анзаарсан.",
+                "zad":"Recently = Сүүлийн үед (Recent = саяхан, ойрын үед). To notice = анзаарах. to relax = тайвшрах"
+            },
+            {
+                "en":"After working in a busy office for a week, she looks forward to her painting class.",
+                "mn":"Оффис дээрээ долоо хоног завгүй ажилласны дараа тэрээр зургийн хичээлийн ангиа тэсэн ядан хүлээж байна.",
+                "zad":"ooking forward to = догдолж хүлээх (шууд утгаар: 'урагш харан', forward= урагш) "
+            },
+            {
+                "en":"It gives her a sense of peace and accomplishment.",
+                "mn":"Энэ нь түүнд амар амгалан ба амжилт гаргаж буй мэдрэмжийг өгдөг.",
+                "zad":"It gives ... = Энэ ... өгдөг (It гэдэг нь зураг зурахыг хэлж байна) Sense of peace = амар амгалан мэдрэмж (Sense = мэдрэмж, мэдрэхүй). Аccomplishment = ололт амжилт (Accomplish = бүтээх, дуусгах, гүйцээх)"
+            },
+            {
+                "en":"Emily is now considering joining an art club to meet more people with similar interests.",
+                "mn":"Эмили одоо ижил төстэй сонирхолтой хүмүүстэй уулзахын тулд урлагийн клубт элсэх талаар бодож байна.",
+                "zad":"considering = бодох, тунгаах, тооцож үзэх, эргэцүүлэх. Joining = элсэх, нийлүүлэх, холбох Similar = төстэй, ижил төстэй. interest = сонирхол"
+            },
+            {
+                "en":"She is happy she found a hobby that brings her joy and new friends.",
+                "mn":"Тэрээр өөртөө баяр баясгалан болон шинэ найз нөхөд авчирдаг хобби олсондоо баяртай байна.",
+                "zad":"To find = олох, эрж олох (found = олсон). Joy = баяр баясгалан. to bring = авчрах"
+            }
+        ]
+    ]
+]
