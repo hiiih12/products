@@ -1,0 +1,300 @@
+{
+    "lesson": [
+        [
+            {
+                "en": "Lesson 1",
+                "mn": "Хичээл 1"
+            },
+            {
+                "en": "it/this (ит/дэ)",
+                "mn": "энэ"
+            },
+            {
+                "en": "it",
+                "mn": "төлөөний үг (3 дагч итгээдийн төлөөний үг,заримдаа тодорхойгүй үед)"
+            },
+            {
+                "en": "this",
+                "mn": "урдаа байгаа зүйлийг заана"
+            },
+            {
+                "en": "it is > it's (ит ис / итс)",
+                "mn": "энэ бол" 
+            },
+            {
+                "en": "easy (иизи)",
+                "mn": "амархан" 
+            },
+            {
+                "en": "it is easy",
+                "mn": "энэ бол амархан" 
+            },
+            {
+                "en": "very (вээри)",
+                "mn": "маш" 
+            },
+            {
+                "en": "it's very easy",
+                "mn": "энэ бол маш амархан" 
+            },
+            {
+                "en": "i (аи)",
+                "mn": "би" 
+            },
+            {
+                "en": "...me",
+                "mn": "над..." 
+            },
+            {
+                "en": "for me (фор ми)",
+                "mn": "надад" 
+            },
+            {
+                "en": "it's easy for me",
+                "mn": "энэ бол амархан надад" 
+            },
+            {
+                "en": "it's very easy for me",
+                "mn": "энэ бол маш амархан надад" 
+            },
+            {
+                "en": "..you (юү)",
+                "mn": "чи.. / та.." 
+            },
+            {
+                "en": "for you (фор юү)",
+                "mn": "Чамд" 
+            },
+            {
+                "en": "it's easy for you",
+                "mn": "Энэ чамд амархан" 
+            },
+            {
+                "en": "it's very easy for you",
+                "mn": "Энэ чамд маш амархан" 
+            },
+            {
+                "en": "important (импоортант)",
+                "mn": "Чухал" 
+            },
+            {
+                "en": "it's important",
+                "mn": "Энэ бол чухал" 
+            },
+            {
+                "en": "it's very important",
+                "mn": "Энэ бол маш чухал" 
+            },
+            {
+                "en": "here (хийр)",
+                "mn": "Энд" 
+            },
+            {
+                "en": "to be (тү би)",
+                "mn": "байх" 
+            },
+            {
+                "en": "to be here",
+                "mn": "Энд байх" 
+            },
+            {
+                "en": "it's important to be here",
+                "mn": "Энд байх нь чухал" 
+            },
+            {
+                "en": "it's important for you to be here",
+                "mn": "Энд байх чамд чухал" 
+            },
+            {
+                "en": "it's important for me to be here",
+                "mn": "Энд байх нь надад чухал" 
+            },
+            {
+                "en": "it's easy",
+                "mn": "Энэ бол амархан" 
+            },
+            {
+                "en": "for me",
+                "mn": "Надад" 
+            },
+            {
+                "en": "it's easy for me",
+                "mn": "Энэ бол амархан надад" 
+            },
+            {
+                "en": "it's easy for me to be here",
+                "mn": "Энд байх надад амар" 
+            },
+            {
+                "en": "for you",
+                "mn": "чамд" 
+            },
+            {
+                "en": "it's easy for you",
+                "mn": "энэ бол амархан чамд" 
+            },
+            {
+                "en": "not (нот)",
+                "mn": "биш" 
+            },
+            {
+                "en": "it's not easy",
+                "mn": "энэ бол амархан биш" 
+            },
+            {
+                "en": "it's not easy for you",
+                "mn": "энэ бол амархан биш чамд"
+            },
+            {
+                "en": "it's not important",
+                "mn": "энэ бол чухал биш" 
+            }
+        ],
+        [
+            {
+                "en": "Lesson 2",
+                "mn": "Хичээл 2"
+            },
+            {
+                "en": "important (импоортант)",
+                "mn": "Чухал"
+            },
+            {
+                "en": "it's very important",
+                "mn": "Энэ бол маш чухал"
+            },
+            {
+                "en": "not (нот)",
+                "mn": "Биш"
+            },
+            {
+                "en": "it's not important for me",
+                "mn": "Энэ надад чухал биш"
+            },
+            {
+                "en": "it's not easy",
+                "mn": "Энэ амархан биш"
+            },
+            {
+                "en": "Really (рийли)",
+                "mn": "Үнэхээр"
+            },
+            {
+                "en": "really important",
+                "mn": "Үнэхээр чухал"
+            },
+            {
+                "en": "it's really important",
+                "mn": "Энэ бол үнэхээр чухал"
+            },
+            {
+                "en": "To be here",
+                "mn": "Энд байх"
+            },
+            {
+                "en": "it's really important to be here",
+                "mn": "Энд байх үнэхээр чухал"
+            },
+            {
+                "en": "for you",
+                "mn": "Чамд"
+            },
+            {
+                "en": "it's really important for you to be here",
+                "mn": "Энд байх чамд чухал"
+            },
+            {
+                "en": "really easy",
+                "mn": "Үнэхээр амархан"
+            },
+            {
+                "en": "to speak (тү спик)",
+                "mn": "Ярих"
+            },
+            {
+                "en": "it's really easy to speak",
+                "mn": "Ярих бол үнэхээр амархан"
+            },
+            {
+                "en": "English (энглиш)",
+                "mn": "Англи хэл"
+            },
+            {
+                "en": "to speak English",
+                "mn": "Англиар ярих"
+            },
+            {
+                "en": "it's really easy to speak English",
+                "mn": "Англиар ярих бол үнэхээр амархан"
+            },
+            {
+                "en": "it's really important to speak English",
+                "mn": "Англиар ярих үнэхээр чухал"
+            },
+            {
+                "en": "i",
+                "mn": "Би"
+            },
+            {
+                "en": "i speak",
+                "mn": "Би ярьдаг"
+            },
+            {
+                "en": "i speak English",
+                "mn": "Би Англиар ярьдаг"
+            },
+            {
+                "en": "you",
+                "mn": "Чи / Та / Та нар"
+            },
+            {
+                "en": "...you",
+                "mn": "Чам… / Тан…"
+            },
+            {
+                "en": "With.. (вит)",
+                "mn": "…тай"
+            },
+            {
+                "en": "With you",
+                "mn": "Чамтай / Тантай"
+            },
+            {
+                "en": "Тантай ярих / Чамтай ярих",
+                "mn": "To speak with you"
+            },
+            {
+                "en": "..me",
+                "mn": "Над.."
+            },
+            {
+                "en": "with me",
+                "mn": "Надтай"
+            },
+            {
+                "en": "to speak with you",
+                "mn": "Надтай ярих"
+            },
+            {
+                "en": "i speak with you",
+                "mn": "Би чамтай ярьдаг"
+            },
+            {
+                "en": "To know (нөөв)",
+                "mn": "Мэдэх"
+            },
+            {
+                "en": "i know",
+                "mn": "Би мэднэ"
+            },
+            {
+                "en": "i know it",
+                "mn": "Би энийг мэднэ"
+            },
+            {
+                "en": "i know English",
+                "mn": "Чи Англи хэл мэднэ"
+            }
+        ]
+    ]
+}
