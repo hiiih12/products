@@ -1,0 +1,164 @@
+{
+    "B1": [
+        [{
+            "en": "Job Interview",
+            "mn": "Ажилд орох ярилцлага"
+        },
+        {
+            "en": "interview",
+            "mn": "ярилцлага"
+        },
+        {
+            "en": "I have a job interview tomorrow, so I need to prepare well",
+            "mn": "Маргааш надад ажилд орох ярилцлага байгаа, тиймээс сайн бэлдэх хэрэгтэй."
+        },
+        {
+            "en": "Make sure your resume is clear and well-organized",
+            "mn": "Хувийн намтараа тодорхой, цэгцтэй байлгаарай"
+        },
+        {
+            "en": "A good cover letter can help you get the job",
+            "mn": "Сайн хавсралт захидал таныг ажилд авахад тусалж чадна"
+        },
+        {
+            "en": "I submitted my job application last week",
+            "mn": "Би ажилд орох өргөдлөө өнгөрсөн долоо хоногт өгсөн"
+        },
+        {
+            "en": "The hiring manager asked me about my previous experience",
+            "mn": "Ажилд авах менежер миний өмнөх туршлагын талаар асуусан"
+        },
+        {
+            "en": "There were five candidates for the position",
+            "mn": "Энэ ажлын байранд таван нэр дэвшигч байсан"
+        },
+        {
+            "en": "One common interview question is ‘What are your strengths and weaknesses?’",
+            "mn": "Ярилцлагын түгээмэл асуултуудын нэг нь “Таны давуу болон сул талууд юу вэ?” юм"
+        },
+        {
+            "en": "She has five years of work experience in marketing.",
+            "mn": "Тэр маркетингийн чиглэлээр таван жилийн ажлын туршлагатай."
+        },
+        {
+            "en": "What are your salary expectations for this position?",
+            "mn": "Энэ ажлын байранд таны цалингийн хүлээлт юу вэ?"
+        },
+        {
+            "en": "The probation period for this job is three months",
+            "mn": "Энэ ажлын туршилтын хугацаа гурван сар"
+        },
+        {
+            "en": "Job interview",
+            "mn": "Ажилд орох ярилцлага"
+        },
+        {
+            "en": "Cover letter",
+            "mn": "Хавсралт захидал"
+        },
+        {
+            "en": "Job application",
+            "mn": "Ажилд орох өргөдөл"
+        },
+        {
+            "en": "Hiring manager",
+            "mn": "Ажилд авах менежер"
+        },
+        {
+            "en": "Resume (CV)",
+            "mn": "Хувийн намтар"
+        },
+        {
+            "en": "Candidate",
+            "mn": "Нэр дэвшигч, ажил горилогч"
+        },
+        {
+            "en": "Interview question",
+            "mn": "Ярилцлагын асуулт"
+        },
+        {
+            "en": "Work experience",
+            "mn": "Ажлын туршлага"
+        },
+        {
+            "en": "Salary expectations",
+            "mn": "Цалин хөлсний хүлээлт"
+        },
+        {
+            "en": "Probation period",
+            "mn": "Туршилтын хугацаа"
+        },
+        {
+            "en": "Workplace",
+            "mn": "Ажлын байр"
+        },
+        {
+            "en": "Colleague (coworker)",
+            "mn": "Хамт ажиллагч"
+        },
+        {
+            "en": "Supervisor",
+            "mn": "Ажлын удирдагч"
+        },
+        {
+            "en": "Work schedule",
+            "mn": "Ажлын цагийн хуваарь"
+        },
+        {
+            "en": "Overtime",
+            "mn": "Илүү цаг"
+        },
+        {
+            "en": "Deadline",
+            "mn": "Хугацааны хязгаар"
+        },
+        {
+            "en": "Teamwork",
+            "mn": "Багийн ажил"
+        },
+        {
+            "en": "Work-life balance",
+            "mn": "Ажил, амьдралын тэнцвэр"
+        },
+        {
+            "en": "Flexible hours",
+            "mn": "Уян хатан цагийн хуваарь"
+        },
+        {
+            "en": "Our workplace is friendly and professional",
+            "mn": "Манай ажлын орчин найрсаг, мэргэжлийн түвшинд байдаг."
+        },
+        {
+            "en": "I have great colleagues who always help me.",
+            "mn": "Миний хамт ажиллагчид маш сайн, тэд үргэлж надад тусалдаг."
+        },
+        {
+            "en": "My supervisor gave me feedback on my work.",
+            "mn": "Миний удирдагч ажлын минь талаар санал хүсэлт өгсөн."
+        },
+        {
+            "en": "My work schedule is from 9 AM to 5 PM.",
+            "mn": "Миний ажлын цаг өглөө 9-өөс орой 5 хүртэл."
+        },
+        {
+            "en": "I had to work overtime to finish the project",
+            "mn": "Би төслөө дуусгахын тулд илүү цагаар ажиллах шаардлагатай болсон"
+        },
+        {
+            "en": "The deadline for this task is next Friday",
+            "mn": "Энэ ажлын хугацааны хязгаар ирэх Баасан гараг"
+        },
+        {
+            "en": "Good teamwork is important in any company",
+            "mn": "Сайн багийн ажил аль ч компанид чухал."
+        },
+        {
+            "en": "A good work-life balance helps you stay happy and productive.",
+            "mn": "Ажил, амьдралын сайн тэнцвэр нь таныг аз жаргалтай, үр бүтээлтэй байхад тусална."
+        },
+        {
+            "en": "My company offers flexible working hours.",
+            "mn": "Миний ажил уян хатан цагийн хуваарьтай."
+        }]
+    ]
+}
