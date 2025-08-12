@@ -2,8 +2,8 @@
     "lesson": [
         [
             {
-                "en": "Lesson 1",
-                "mn": "Хичээл 1"
+                "en": "Unit 1 Lesson 1",
+                "mn": "Бүлэг 1 Хичээл 1"
             },
             {
                 "en": "it/this (ит/дэ)",
@@ -152,8 +152,8 @@
         ],
         [
             {
-                "en": "Lesson 2",
-                "mn": "Хичээл 2"
+                "en": "Unit 1 Lesson 2",
+                "mn": "Бүлэг 1 Хичээл 2"
             },
             {
                 "en": "important (импоортант)",
@@ -294,6 +294,718 @@
             {
                 "en": "i know English",
                 "mn": "Чи Англи хэл мэднэ"
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 3",
+                "mn": "Бүлэг 1 Хичээл 3"
+            },
+            {
+                "en": "to need",
+                "mn": "Хэрэгтэй / Хэрэг болох"
+            },
+            {
+                "en": "need to ...",
+                "mn": "...х хэрэгтэй"
+            },
+            {
+                "en": "neet to speak",
+                "mn": "Ярих хэрэгтэй"
+            },
+            {
+                "en": "I need …",
+                "mn": "Надад … хэрэгтэй"
+            },
+            {
+                "en": "i need it",
+                "mn": "Энэ надад хэрэгтэй"
+            },
+            {
+                "en": "you need to..",
+                "mn": "Чи ...х хэрэгтэй"
+            },
+            {
+                "en": "you need to know",
+                "mn": "Чи мэдэх хэрэгтэй"
+            },
+            {
+                "en": "you need to know this",
+                "mn": "Чи энийг мэдэх хэрэгтэй"
+            },
+            {
+                "en": "you need to speak",
+                "mn": "Чи ярих хэрэгтэй"
+            },
+            {
+                "en": "you need to speak with me",
+                "mn": "Чи надтай ярих хэрэгтэй"
+            },
+            {
+                "en": "i need to speak with you",
+                "mn": "Чамтай ярих хэрэг байна"
+            },
+            {
+                "en": "i need it",
+                "mn": "Энэ надад хэрэгтэй"
+            },
+            {
+                "en": "thing",
+                "mn": "Юм / зүйл"
+            },
+            {
+                "en": "some",
+                "mn": "Зарим нэг / хэсэг"
+            },
+            {
+                "en": "Something",
+                "mn": "Ямар нэг юм / нэг юм"
+            },
+            {
+                "en": "i need something",
+                "mn": "Надад нэг юм хэрэгтэй"
+            },
+            {
+                "en": "i need you",
+                "mn": "Чи надад хэрэгтэй"
+            },
+            {
+                "en": "you need me",
+                "mn": "Би чамд хэрэгтэй"
+            },
+            {
+                "en": "you need it",
+                "mn": "Энэ чамд хэрэгтэй"
+            },
+            {
+                "en": "to speak English",
+                "mn": "Англиар ярих"
+            },
+            {
+                "en": "i speak",
+                "mn": "Би ярьдаг"
+            },
+            {
+                "en": "i speak English",
+                "mn": "Би Англиар ярьдаг"
+            },
+            {
+                "en": "to speak with you",
+                "mn": "Чамтай ярих"
+            },
+            {
+                "en": "with me",
+                "mn": "Надтай"
+            },
+            {
+                "en": "to speak with me",
+                "mn": "Надтай ярих"
+            },
+            {
+                "en": "to spaek English with me ",
+                "mn": "Надтай Англиар ярих"
+            },
+            {
+                "en": "Speak",
+                "mn": "Ярь"
+            },
+            {
+                "en": "Speak with me",
+                "mn": "Надтай ярь"
+            },
+            {
+                "en": "Speak English",
+                "mn": "Англиар ярь"
+            },
+            {
+                "en": "Speak English with me",
+                "mn": "Надтай Англиар ярь"
+            },
+            {
+                "en": "Please",
+                "mn": "Тэгнэ үү"
+            },
+            {
+                "en": "Please speak English with me",
+                "mn": "Надтай Англиар ярина уу"
+            },
+            {
+                "en": "Speak English with me Please",
+                "mn": "Надтай Англиар ярина уу"
+            },
+            {
+                "en": "it's important",
+                "mn": "Энэ бол чухал"
+            },
+            {
+                "en": "it's very important for me",
+                "mn": "Энэ надад маш чухал"
+            },
+            {
+                "en": "it's important to speak English",
+                "mn": "Англиар ярих нь чухал"
+            },
+            {
+                "en": "need to speak",
+                "mn": "Ярих хэрэгтэй"
+            },
+            {
+                "en": "you need to speak",
+                "mn": "Чи ярих хэрэгтэй"
+            },
+            {
+                "en": "you need to speak English",
+                "mn": "Чи Англиар ярих хэрэгтэй"
+            },
+            {
+                "en": "you need to speak English with me",
+                "mn": "Чи надтай Англиар ярих хэрэгтэй"
+            },
+            {
+                "en": "i really need to speak with you",
+                "mn": "Надад чамтай үнэхээр ярих хэрэг байна"
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 4",
+                "mn": "Бүлэг 1 Хичээл 4"
+            },
+            {
+                "en": "to speak English",
+                "mn": "Англиар ярих"
+            },
+            {
+                "en": "it's important to speak English",
+                "mn": "Англиар ярих нь чухал"
+            },
+            {
+                "en": "it's really important to speak English",
+                "mn": "Англиар ярих үнэхээр чухал"
+            },
+            {
+                "en": "it's important for you to speak English",
+                "mn": "Англиар ярих бол чамд чухал"
+            },
+            {
+                "en": "Speak",
+                "mn": "Ярь"
+            },
+            {
+                "en": "So",
+                "mn": "Тиймээс, тэгээд, тэгэхээр"
+            },
+            {
+                "en": "so,speak English",
+                "mn": "Тиймээс, Англиар ярь"
+            },
+            {
+                "en": "Please",
+                "mn": "Эелдгээр асуух үг"
+            },
+            {
+                "en": "So Please speak English",
+                "mn": "Тиймээс, Англиар ярина уу"
+            },
+            {
+                "en": "Please speak with me",
+                "mn": "Надтай ярина уу"
+            },
+            {
+                "en": "Please speak English with me",
+                "mn": "Надтай Англиар ярина уу"
+            },
+            {
+                "en": "to want..",
+                "mn": "...хүсэх / ...мээр байх"
+            },
+            {
+                "en": "I want ..",
+                "mn": "Би …г хүсдэг / Би …мээр байна"
+            },
+            {
+                "en": "I want to ...",
+                "mn": "Би ...мээр байна"
+            },
+            {
+                "en": "i want to speak",
+                "mn": "Би яримаар байна"
+            },
+            {
+                "en": "i want to speak English",
+                "mn": "Би Англиар яримаар байна"
+            },
+            {
+                "en": "With you",
+                "mn": "Тантай"
+            },
+            {
+                "en": "i want to speak English with you",
+                "mn": "Би тантай Англиар яримаар байна"
+            },
+            {
+                "en": "To do",
+                "mn": "Хийх"
+            },
+            {
+                "en": "i do..",
+                "mn": "Би … хийдэг / Би …дэг шдээ / Би … байна"
+            },
+            {
+                "en": "you do..",
+                "mn": "Чи … хийдэг / Чи …дэг шдээ / Чи … байна"
+            },
+            {
+                "en": "do you...?",
+                "mn": "Чи …дэг үү?"
+            },
+            {
+                "en": "Do you speak?",
+                "mn": "Чи ярьдаг уу?"
+            },
+            {
+                "en": "Do you speak English?",
+                "mn": "Чи Англиар ярьдаг уу?"
+            },
+            {
+                "en": "Do you want to speak English?",
+                "mn": "Чи Англиар яримаар байна уу?"
+            },
+            {
+                "en": "Something",
+                "mn": "Ямар нэг юм"
+            },
+            {
+                "en": "Do you need something",
+                "mn": "Танд ямар нэг юм хэрэгтэй юу?"
+            },
+            {
+                "en": "from...",
+                "mn": "..аас"
+            },
+            {
+                "en": "from me",
+                "mn": "Надаас"
+            },
+            {
+                "en": "Do you need something from me",
+                "mn": "Танд миний зүгээс ямар нэг юм хэрэгтэй юу?"
+            },
+            {
+                "en": "Do you need it?",
+                "mn": "Энэ чамд хэрэгтэй юу?"
+            },
+            {
+                "en": "Do you need me?",
+                "mn": "Би танд хэрэгтэй юу?"
+            },
+            {
+                "en": "Yes",
+                "mn": "Тийм"
+            },
+            {
+                "en": "yes i need you",
+                "mn": "Тийм, чи надад хэрэгтэй"
+            },
+            {
+                "en": "Do not",
+                "mn": "Хийдэг үгүй / Битгий"
+            },
+            {
+                "en": "I do not need ...",
+                "mn": "Би хийн үгүй хэрэг … / … надад хэрэг үгүй байна"
+            },
+            {
+                "en": "i don't need it",
+                "mn": "Надад энэ хэрэггүй"
+            },
+            {
+                "en": "i don't want it",
+                "mn": "Би энийг хүсэхгүй байна"
+            },
+            {
+                "en": "i don't know it",
+                "mn": "Би энийг мэдэхгүй"
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 5",
+                "mn": "Бүлэг 1 Хичээл 5"
+            },
+            {
+                "en": "",
+                "mn": ""
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 6",
+                "mn": "Бүлэг 1 Хичээл 6"
+            },
+            {
+                "en": "",
+                "mn": ""
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 7",
+                "mn": "Бүлэг 1 Хичээл 7"
+            },
+            {
+                "en": "",
+                "mn": ""
+            }
+        ],
+        [
+            {
+                "en": "Unit 1 Lesson 8",
+                "mn": "Бүлэг 1 Хичээл 8"
+            },
+            {
+                "en": "",
+                "mn": ""
+            }
+        ],
+        [
+            {
+                "en": "Unit 2 Lesson 1",
+                "mn": "Бүлэг 2 Хичээл 1"
+            },  
+            {
+                "en": "Phrasal verb",
+                "mn": "Хэллэгэн үйл үг"
+            },  
+            {
+                "en": "So, let’s get started",
+                "mn": "Тэгэхээр, эхэлцгээе"
+            },  
+            {
+                "en": "to see",
+                "mn": "Харах"
+            },  
+            {
+                "en": "i see you",
+                "mn": "Би чамайг харж байна"
+            },  
+            {
+                "en": "to look",
+                "mn": "Харах"
+            },  
+            {
+                "en": "To look at..",
+                "mn": "..рүү харах"
+            },  
+            {
+                "en": "i am looking at you",
+                "mn": "Би чам руу харж байна"
+            },  
+            {
+                "en": "To look for...",
+                "mn": "...д харах"
+            },  
+            {
+                "en": "i am looking for it",
+                "mn": "Би үүнийг хайж байна"
+            },  
+            {
+                "en": "they are looking for you",
+                "mn": "Тэд чамайг хайж байна"
+            },  
+            {
+                "en": "i was looking for something",
+                "mn": "Би байсан харсаар нэг зүйлд"
+            },  
+            {
+                "en": "you have to look for it",
+                "mn": "Чи үүнийг хайх ёстой"
+            },  
+            {
+                "en": "to find",
+                "mn": "Олох"
+            },  
+            {
+                "en": "you have to find it",
+                "mn": "Чи үүнийг олох ёстой"
+            },  
+            {
+                "en": "forward",
+                "mn": "Урагш"
+            },  
+            {
+                "en": "look forward to ..",
+                "mn": "Догдлон хүлээх.."
+            },  
+            {
+                "en": "i am looking forward to it",
+                "mn": "Би үүнийг догдлон хүлээж байна"
+            },  
+            {
+                "en": "I look forward to it",
+                "mn": "Би үүнийг догдлон хүлээж байна"
+            },  
+            {
+                "en": "i look forward to meeting you",
+                "mn": "Би тантай уулзахыг догдлон хүлээж байна"
+            },  
+            {
+                "en": "to wait",
+                "mn": "Хүлээх"
+            },  
+            {
+                "en": "i can wait",
+                "mn": "Би хүлээж чадна"
+            },  
+            {
+                "en": "i can't wait",
+                "mn": "Би тэсэн ядан хүлээж байна"
+            },  
+            {
+                "en": "are you looking forward to it",
+                "mn": "Чи үүнийг догдлон хүлээж байна уу?"
+            },  
+            {
+                "en": "i can't wait",
+                "mn": "Би тэсэн ядан хүлээж байна"
+            },  
+            {
+                "en": "i can't wait for it",
+                "mn": "Би үүнийг тэсэн ядан хүлээж байна"
+            },  
+            {
+                "en": "to count",
+                "mn": "Тоолох"
+            },  
+            {
+                "en": "To count on..",
+                "mn": "..дээр тоолох (найдах)"
+            },  
+            {
+                "en": "Надад найд",
+                "mn": "count on me"
+            },  
+            {
+                "en": "we count on you",
+                "mn": "Бид чамд итгэж найддаг"
+            },  
+            {
+                "en": "we are counting on you",
+                "mn": "Бид чамд найдаж байна"
+            },  
+            {
+                "en": "can i count on you",
+                "mn": "Би чамд найдаж болох уу?"
+            },  
+            {
+                "en": "To rely on..",
+                "mn": "..дээр найдах"
+            },  
+            {
+                "en": "can i rely on you",
+                "mn": "Би чамд найдаж болох уу?"
+            },  
+            {
+                "en": "reliable",
+                "mn": "Найдвартай / Найдлага даах"
+            },  
+            {
+                "en": "this is reliable",
+                "mn": "Энэ бол найдвартай"
+            },  
+            {
+                "en": "is this reliable",
+                "mn": "Энэ найдвартай юу?"
+            },  
+            {
+                "en": "are they reliable",
+                "mn": "Тэд найдвартай юу?"
+            },  
+            {
+                "en": "Definitely",
+                "mn": "Гарцаагүй"
+            },  
+            {
+                "en": "they are definitely reliable",
+                "mn": "Тэд гарцаагүй найдвартай"
+            },  
+            {
+                "en": "we can rely on them",
+                "mn": "Бид тэдэнд найдаж болно"
+            },  
+            {
+                "en": "We can count on them",
+                "mn": "Бид болно найдаж тэдэн дээр"
+            }
+        ],
+        [
+            {
+                "en": "Unit 2 Lesson 2",
+                "mn": "Бүлэг 2 Хичээл 2"
+            },
+            {
+                "en": "find it",
+                "mn": "Үүнийг ол"
+            },
+            {
+                "en": "you have to find it",
+                "mn": "Чи үүнийг олох ёстой"
+            },
+            {
+                "en": "Did you find it?",
+                "mn": "Чи үүнийг олсон уу?"
+            },
+            {
+                "en": "I did't find it",
+                "mn": "Би үүнийг олоогүй"
+            },
+            {
+                "en": "to help",
+                "mn": "Туслах"
+            },
+            {
+                "en": "help me",
+                "mn": "Надад тусал"
+            },
+            {
+                "en": "can you help me",
+                "mn": "Та надад тусалж чадах уу?"
+            },
+            {
+                "en": "could you help me",
+                "mn": "Та надад тусалж болох уу?"
+            },
+            {
+                "en": "could you please help me?",
+                "mn": "Та надад тусалж болох уу?"
+            },
+            {
+                "en": "Could you help me please?",
+                "mn": "Та надад тусалж болох уу?)"
+            },
+            {
+                "en": "could you help me find it?",
+                "mn": "Та надад энийг олоход тусалж болох уу?"
+            },
+            {
+                "en": "Where is it?",
+                "mn": "Энэ хаана байгаа вэ?"
+            },
+            {
+                "en": "where was it?",
+                "mn": "Энэ хаана байсан бэ?"
+            },
+            {
+                "en": "Look for it",
+                "mn": "Үүнийг хай"
+            },
+            {
+                "en": "i am looking for it",
+                "mn": "Би үүнийг хайж байна"
+            },
+            {
+                "en": "i found it",
+                "mn": "Би үүнийг олсон"
+            },
+            {
+                "en": "Where was it?",
+                "mn": "Энэ хаана байсан бэ?"
+            },
+            {
+                "en": "It was there",
+                "mn": "Тэнд байсан"
+            },
+            {
+                "en": "it was on the table",
+                "mn": "Ширээн дээр байсан"
+            },
+            {
+                "en": "it wasn't on the table",
+                "mn": "Ширээн дээр байгаагүй"
+            },
+            {
+                "en": "Then, where was it",
+                "mn": "Тэгвэл хаана байсан юм?"
+            },
+            {
+                "en": "I don't know",
+                "mn": "Би мэдэхгүй"
+            },
+            {
+                "en": "idea",
+                "mn": "Санаа"
+            },
+            {
+                "en": "I have no idea",
+                "mn": "Ёстой мэдэх юм алга"
+            },
+            {
+                "en": "to find out",
+                "mn": "Олж гаргах"
+            },
+            {
+                "en": "go find out",
+                "mn": "Явж олж мэд"
+            },
+            {
+                "en": "Where it is",
+                "mn": "Хаана байгааг"
+            },
+            {
+                "en": "go find out where it is",
+                "mn": "Явж хаана байгааг нь олж мэд"
+            },
+            {
+                "en": "find out where they are",
+                "mn": "Тэд хаана байгааг олж мэд"
+            },
+            {
+                "en": "I found out",
+                "mn": "Би олж мэдсэн"
+            },
+            {
+                "en": "she found out",
+                "mn": "Тэр эмэгтэй олж мэдсэн"
+            },
+            {
+                "en": "she found out where we are",
+                "mn": "Тэр эмэгтэй бидний хаана байгааг олж мэдсэн"
+            },
+            {
+                "en": "Should",
+                "mn": "Ёстой байх / Хэрэгтэй байх"
+            },
+            {
+                "en": "You should come",
+                "mn": "Чи ирсэн нь дээр дээ"
+            },
+            {
+                "en": "you should find out",
+                "mn": "Чи олж мэдсэн нь дээр дээ"
+            },
+            {
+                "en": "what should we do?",
+                "mn": "Бид юу хийх ёстой вэ?"
+            },
+            {
+                "en": "To figure out",
+                "mn": "Учрыг нь олох)"
+            },
+            {
+                "en": "figure it out",
+                "mn": "Учрыг нь ол"
+            },
+            {
+                "en": "I couldn’t figure it out",
+                "mn": "Би үүний учрыг олж чадсангүй"
+            },
+            {
+                "en": "It was too difficult for me",
+                "mn": "Энэ надад дэндүү хэцүү байсан"
+            },
+            {
+                "en": "I figured it out",
+                "mn": "Би учрыг нь олчихлоо"
             }
         ]
     ]
