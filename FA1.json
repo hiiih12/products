@@ -2,6 +2,10 @@
     "FA1": [
         [
                 {
+                    "en": "Lesson 1",
+                    "mn": "Lesson 1"
+                },
+                {
                     "en": "C'est (ce)",
                     "mn": "it’s"
                 },
@@ -83,6 +87,10 @@
                 }
             ],
         [
+            {
+                    "en": "Lesson 2",
+                    "mn": "Lesson 2"
+                },
                 {
                     "en": "C'est important pour moi",
                     "mn": "It's important for me"
